@@ -1,5 +1,5 @@
---temp-output:c:\users\csdhall\documents\visual studio 2015\Projects\CoreAngular-9-2016\src\CoreAngular-9-2016\obj\Debug\netcoreapp1.0\
---out:c:\users\csdhall\documents\visual studio 2015\Projects\CoreAngular-9-2016\src\CoreAngular-9-2016\bin\Debug\netcoreapp1.0\CoreAngular-9-2016.dll
+--temp-output:C:\Users\csdhall\Documents\visual studio 2015\Projects\CoreAngular\src\CoreAngular-9-2016\obj\Debug\netcoreapp1.0\
+--out:C:\Users\csdhall\Documents\visual studio 2015\Projects\CoreAngular\src\CoreAngular-9-2016\bin\Debug\netcoreapp1.0\CoreAngular-9-2016.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -165,7 +165,7 @@
 --reference:C:\Users\csdhall\.nuget\packages\System.Threading.Timer\4.0.1\ref\netstandard1.2\System.Threading.Timer.dll
 --reference:C:\Users\csdhall\.nuget\packages\System.Xml.ReaderWriter\4.0.11\ref\netstandard1.3\System.Xml.ReaderWriter.dll
 --reference:C:\Users\csdhall\.nuget\packages\System.Xml.XDocument\4.0.11\ref\netstandard1.3\System.Xml.XDocument.dll
---resource:"c:\users\csdhall\documents\visual studio 2015\Projects\CoreAngular-9-2016\src\CoreAngular-9-2016\obj\Debug\netcoreapp1.0\CoreAngular-9-2016dotnet-compile.deps.json",CoreAngular-9-2016.deps.json
-c:\users\csdhall\documents\visual studio 2015\Projects\CoreAngular-9-2016\src\CoreAngular-9-2016\Program.cs
-c:\users\csdhall\documents\visual studio 2015\Projects\CoreAngular-9-2016\src\CoreAngular-9-2016\Startup.cs
-c:\users\csdhall\documents\visual studio 2015\Projects\CoreAngular-9-2016\src\CoreAngular-9-2016\Controllers\HomeController.cs
+--resource:"C:\Users\csdhall\Documents\visual studio 2015\Projects\CoreAngular\src\CoreAngular-9-2016\obj\Debug\netcoreapp1.0\CoreAngular-9-2016dotnet-compile.deps.json",CoreAngular-9-2016.deps.json
+C:\Users\csdhall\Documents\visual studio 2015\Projects\CoreAngular\src\CoreAngular-9-2016\Program.cs
+C:\Users\csdhall\Documents\visual studio 2015\Projects\CoreAngular\src\CoreAngular-9-2016\Startup.cs
+C:\Users\csdhall\Documents\visual studio 2015\Projects\CoreAngular\src\CoreAngular-9-2016\Controllers\HomeController.cs
